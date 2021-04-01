@@ -1,0 +1,78 @@
+{
+  "kulkas": [
+    {
+      "id": 1,
+      "nama": "Aqua Kulkas AQR-D181",
+      "harga": 1595000,
+      "image": "/Kulkas/Kulkas-1.jpg",
+      "stok" : 10
+    },
+    {
+      "id": 2,
+      "nama": "Sharp kulkas SJ-236MG-GB",
+      "harga": 2825000,
+      "image": "/Kulkas/Kulkas-2.jpg",
+      "stok" : 8
+    },
+    {
+      "id": 3,
+      "nama": "Polytron SCN 180",
+      "harga": 3180000,
+      "image": "/Kulkas/Kulkas-3.jpg",
+      "stok" : 7
+    },
+    {
+      "id": 4,
+      "nama": "Sharp SJ-195MD-SR",
+      "harga": 2549000,
+      "image": "/Kulkas/Kulkas-4.jpg",
+      "stok" : 12
+    },
+    {
+      "id": 5,
+      "nama": "Aqua Kulkas AQR-D275R",
+      "harga": 3149000,
+      "image": "/Kulkas/Kulkas-5.jpg",
+      "stok" : 5
+    },
+    {
+      "id": 6,
+      "nama": "Polytron SCN 231",
+      "harga": 3475000,
+      "image": "/Kulkas/Kulkas-6.jpg",
+      "stok" : 4
+    },
+    {
+      "id": 7,
+      "nama": "Aqua Kulkas AQR-D261",
+      "harga": 2495000,
+      "image": "/Kulkas/Kulkas-7.jpg",
+      "stok" : 11
+    },
+    {
+      "id": 8,
+      "nama": "LG GNV212RLT",
+      "harga": 3299000,
+      "image": "/Kulkas/Kulkas-8.jpg",
+      "stok" : 10
+    },
+    {
+      "id": 9,
+      "nama": "Sharp SJ450GPSD",
+      "harga": 4899000,
+      "image": "/Kulkas/Kulkas-9.jpg",
+      "stok" : 10
+    },
+    {
+      "id": 10,
+      "nama": "Panasonic Kulkas NR-BB201Q",
+      "harga": 3489000,
+      "image": "/Kulkas/Kulkas-10.jpg",
+      "stok" : 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

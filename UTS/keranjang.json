@@ -1,0 +1,40 @@
+{
+  "keranjang": [
+    {
+      "id": 1,
+      "image": "/Kulkas/Kulkas-1.jpg",
+      "nama": "Aqua Kulkas AQR-D181",
+      "harga": 1595000,
+      "stok": 10,
+      "qty": 2
+    },
+    {
+      "id": 2,
+      "image": "/Kulkas/Kulkas-2.jpg",
+      "nama": "Sharp kulkas SJ-236MG-GB",
+      "harga": 2825000,
+      "stok": 8,
+      "qty": 1
+    },
+    {
+      "id": 4,
+      "image": "/Kulkas/Kulkas-4.jpg",
+      "nama": "Sharp SJ-195MD-SR",
+      "harga": 2549000,
+      "stok": 12,
+      "qty": 1
+    },
+    {
+      "id": 10,
+      "image": "/Kulkas/Kulkas-10.jpg",
+      "nama": "Panasonic Kulkas NR-BB201Q",
+      "harga": 3489000,
+      "stok": 4,
+      "qty": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
