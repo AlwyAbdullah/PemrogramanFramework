@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "nim": "1841720204",
+      "nama": "Alwy Abdullah",
+      "alamat": "Kh Hasyim Ashari gg 4 / 11A",
+      "hp": "081331423488",
+      "angkatan": "2018",
+      "status": "Aktif"
+    },
+    {
+      "id": 2,
+      "nim": "1823814812",
+      "nama": "Hasyim",
+      "alamat": "Talun",
+      "hp": "08771232385",
+      "angkatan": "2016",
+      "status": "Lulus"
+    },
+    {
+      "id": 3,
+      "nim": "1841720291",
+      "nama": "kaka",
+      "alamat": "turen",
+      "hp": "0918248182",
+      "angkatan": "2017",
+      "status": "Aktif"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
